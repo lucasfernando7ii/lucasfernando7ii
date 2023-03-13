@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Olá! Eu sou o Lucas Fernando!
+### Olá! Eu sou o Lucas Fernando! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfernando7ii&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernando7ii&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que uso no meu dia:
 
 <div style="display: inline_block"></br>
