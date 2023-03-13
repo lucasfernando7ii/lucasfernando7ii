@@ -18,3 +18,6 @@
 <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
 
+### Sobre:
+Meu nome é Lucas, tenho 23 anos e desde os meus 10 anos sou fascinado pela tecnologia, aos meus 16 anos tive meu primeiro contato com desenvolvimento, através do HTML5 e CSS3, atualmente estou cursando Análise de Sistemas na universidade UniAmérica, procuro minha primeira experiência profissional na área como estagiário ou Desenvolvedor Jr. Hoje meus estudos estão sendo focados em tecnologias FrontEnd, HTML5, CSS3, JavaScript e aprimorando meus conhecimentos em Vue.js. Porém meus planos é cada vez mais abrir o leque de especialidades, adicionar Node.js ao meu portfólio e me tornar um desenvolvedor JavaScript Fullstack, sou um estudante em evolução sempre muito curioso em relação ao mundo da tecnologia, tentando aprender cada vez mais tecnologias e evoluir ainda mais o meu perfil pessoal e principalmente profissional.
+
