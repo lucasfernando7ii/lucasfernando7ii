@@ -8,7 +8,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfernando7ii&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernando7ii&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernando7ii&hide_progress=true)](https://github.com/lucasfernando7ii/github-readme-stats)
 ## Tecnologias que uso no meu dia:
 
 <div style="display: inline_block"></br>
