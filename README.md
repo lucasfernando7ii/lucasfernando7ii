@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! I'm Lucas Fernando, welcome to my GitHub.
 
-### Olá! Eu sou o Lucas Fernando! 👋
+### Dev focado em performance, experiência e qualidade.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
@@ -20,4 +20,5 @@
 </div>
 
 ### Sobre:
-Meu nome é Lucas, tenho 23 anos e desde a minha infância sou fascinado pela tecnologia, aos meus 11 anos tive meu primeiro contato com desenvolvimento, desde então já sabia que futuramente seria minha área de atuação. Aos 15 anos comecei a desenvolver através do HTML5 e CSS3, atualmente estou cursando Análise de Sistemas na universidade UniAmérica, procuro minha primeira experiência profissional na área como estagiário ou Desenvolvedor Jr. Hoje meus estudos estão sendo focados em tecnologias FrontEnd, HTML5, CSS3, JavaScript e aprimorando meus conhecimentos em Vue.js. Porém meus planos é cada vez mais abrir o leque de especialidades, adicionar Node.js ao meu portfólio e me tornar um desenvolvedor JavaScript Fullstack, sou um estudante em evolução sempre muito curioso em relação ao mundo da tecnologia, tentando aprender cada vez mais tecnologias e evoluir ainda mais o meu perfil pessoal e principalmente profissional.
+Atualmente atuo na SuitPay, onde desempenho um papel híbrido: participo ativamente do time de QA, garantindo a qualidade das entregas, e também atuo como desenvolvedor no projeto da nova plataforma de infoprodutos da empresa. Nesse projeto, trabalho diretamente com o framework Laravel, utilizando Blade PHP para criação e ajustes em páginas dinâmicas, além de colaborar com melhorias na interface e usabilidade do sistema.
+Tenho como objetivo expandir meu leque de tecnologias, aprimorando meus conhecimentos em Vue.js e iniciando meus estudos em Java, buscando evoluir constantemente como desenvolvedor e estar preparado para novos desafios.
