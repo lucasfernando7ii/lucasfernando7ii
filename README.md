@@ -23,5 +23,5 @@
 </div>
 
 ### Sobre:
-Atualmente atuo na SuitPay, onde desempenho um papel híbrido: participo ativamente do time de QA, garantindo a qualidade das entregas, e também atuo como desenvolvedor no projeto da nova plataforma de infoprodutos da empresa. Nesse projeto, trabalho diretamente com o framework Laravel, utilizando Blade PHP para criação e ajustes em páginas dinâmicas, além de colaborar com melhorias na interface e usabilidade do sistema.  
-Tenho como objetivo expandir meu leque de tecnologias, aprimorando meus conhecimentos em Vue.js e iniciando meus estudos em Java, buscando evoluir constantemente como desenvolvedor e estar preparado para novos desafios.
+Atualmente atuo como desenvolvedor back-end júnior na Yever, focado em integrações entre lojas e o checkout da plataforma. Minha rotina envolve investigar e corrigir problemas relacionados à implementação do script da Yever em lojas Shopify, garantindo que o fluxo de compra funcione corretamente. Também utilizo o Postman e consultas ao banco de dados interno para validar dados, identificar falhas e apoiar o time na manutenção da integridade do sistema.
+Busco expandir meus conhecimentos em tecnologias como Laravel, Vue.js e Java, evoluindo continuamente para entregar soluções mais robustas, eficientes e alinhadas com os desafios da empresa.
