@@ -23,5 +23,5 @@
 </div>
 
 ### Sobre:
-Atualmente atuo como desenvolvedor back-end júnior na Yever, focado em integrações entre lojas e o checkout da plataforma. Minha rotina envolve investigar e corrigir problemas relacionados à implementação do script da Yever em lojas Shopify, garantindo que o fluxo de compra funcione corretamente. Também utilizo o Postman e consultas ao banco de dados interno para validar dados, identificar falhas e apoiar o time na manutenção da integridade do sistema.
+Atualmente atuo como desenvolvedor back-end na Yever, focado em integrações entre lojas e o checkout da plataforma. Minha rotina envolve investigar e corrigir problemas relacionados à implementação do script da Yever em lojas Shopify, garantindo que o fluxo de compra funcione corretamente. Também utilizo o Postman e consultas ao banco de dados interno para validar dados, identificar falhas e apoiar o time na manutenção da integridade do sistema.
 Busco expandir meus conhecimentos em tecnologias como Laravel, Vue.js e Java, evoluindo continuamente para entregar soluções mais robustas, eficientes e alinhadas com os desafios da empresa.
