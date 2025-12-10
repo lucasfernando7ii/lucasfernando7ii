@@ -6,9 +6,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)  
 
- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfernando7ii&show_icons=true&theme=dracula)  
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasfernando7ii&theme=dracula)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernando7ii&cache_seconds=60)
+![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lucasfernando7ii&layout=compact&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia:
