@@ -1,9 +1,9 @@
 ### Hi! I'm Lucas Fernando, welcome to my GitHub.
 
 ### Sobre:
-Atualmente atuo como desenvolvedor back-end na Yever, focado em integrações entre lojas e o checkout da plataforma. Minha rotina envolve investigar e corrigir problemas relacionados à implementação do script da Yever em lojas Shopify, garantindo que o fluxo de compra funcione corretamente. Também utilizo o Postman e consultas ao banco de dados interno para validar dados, identificar falhas e apoiar o time na manutenção da integridade do sistema.
+Atuo como desenvolvedor back-end na Yever, focado em integrações entre lojas Shopify e o checkout da plataforma. Trabalho na análise e correção da implementação do script, validação de dados via Postman e consultas ao banco, garantindo a estabilidade e o correto funcionamento do fluxo de compra.
 
-Além disso, estou me aprofundando no uso de PHP para a criação de microserviços internos, contribuindo para ampliar a modularidade e a escalabilidade da plataforma. Busco expandir meus conhecimentos em tecnologias como Laravel, Vue.js e Java, evoluindo continuamente para entregar soluções mais robustas, eficientes e alinhadas com os desafios da empresa.
+Atualmente, aprofundo meus estudos em PHP para desenvolvimento de microserviços e sigo evoluindo em tecnologias como Laravel, Vue.js e Java, sempre buscando soluções mais escaláveis, eficientes e alinhadas às necessidades do negócio.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
