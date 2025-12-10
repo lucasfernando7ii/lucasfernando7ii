@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lucasfernando7ii&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasfernando7ii&theme=dracula)
 
 ![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lucasfernando7ii&layout=compact&theme=dracula)
 
