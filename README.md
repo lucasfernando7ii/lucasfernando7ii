@@ -3,7 +3,7 @@
 ### Sobre:
 Atuo como desenvolvedor back-end na Yever, focado em integrações entre lojas Shopify e o checkout da plataforma. Trabalho na análise e correção da implementação do script, validação de dados via Postman e consultas ao banco, garantindo a estabilidade e o correto funcionamento do fluxo de compra.
 
-Atualmente, aprofundo meus estudos em PHP para desenvolvimento de microserviços e sigo evoluindo em tecnologias como Laravel, Vue.js e Java, sempre buscando soluções mais escaláveis, eficientes e alinhadas às necessidades do negócio.
+Além disso, participo do desenvolvimento de um assistente virtual para a plataforma e aprofundo meus estudos em PHP para criação de microserviços. Sigo evoluindo em tecnologias como Laravel, Vue.js e Java, buscando soluções escaláveis, eficientes e alinhadas às necessidades do negócio.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-096b9022b/)
