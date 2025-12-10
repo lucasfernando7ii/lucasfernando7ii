@@ -13,8 +13,9 @@ Além disso, participo do desenvolvimento de um assistente virtual para a plataf
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasfernando7ii&theme=dracula)
 
-![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lucasfernando7ii&layout=compact&theme=dracula)
-
+<div align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lucasfernando7ii&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
 ## Tecnologias que uso no meu dia:
 
@@ -27,5 +28,7 @@ Além disso, participo do desenvolvimento de um assistente virtual para a plataf
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="Blade" src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img align="center" alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img lucas-fernando@lucas-fernando-Ubuntu:~$ ssh root@157.245.223.243
+ssh: connect to host 157.245.223.243 port 22: Connection refused
+ alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
